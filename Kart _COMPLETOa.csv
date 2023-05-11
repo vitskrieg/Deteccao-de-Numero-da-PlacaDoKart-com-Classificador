@@ -1,0 +1,18 @@
+Id;Já Dirigiu?;Quantas vezes já andou de kart?;Peso;Idade;Altura;Sexo;Quantas Vezes Colidiu;Melhor Volta;Posição ;Tempo Total;Velociade Média;Você Fica Nervoso Na hora de Pilotar?;Dirige Frequentemente ;Id do Carro;Potência Do Carro?;Inicio ;Última Manutenção do Veículo;Emoção(Feliz, Triste, Neutro);Cor Do Carro;Time que o piloto torce;Se alimentou antes? 
+Paulo ;S;5;71;21;1,71;M;1;41,7;2;19,38;63,26;N;N;30;70;15;10/07/2022;feliz;amarelo;Flamengo;S
+Jhon;S;1;80;25;1,67;M;1;41,9;3;20,08;61,69;N;N;2;70;15;10/07/2022;feliz;preto;Flamengo;S
+Gabi;S;0;46;19;1,7;F;2;50;7;19,53;48,58;S;N;3;70;15;10/07/2022;feliz;amarelo;Flamengo;N
+Rodrigues;S;0;58;25;1,7;M;0;45,8;9;19,37;45,73;N;N;12;70;15;10/07/2022;neutro;amarelo;;N
+Melissa ;S;0;69;23;1,57;F;2;1140;;19,53;3,47;N;N;9;70;15;10/07/2022;neutro;preto;;S
+Maycon;S;1;103;23;1,75;M;0;;;;;N;S;;70;15;;triste;;Corinthias;S
+Vilson;S;1;116;21;1,83;M;2;44;6;19,46;52,36;N;N;11;70;15;10/07/2022;feliz;preto;;S
+Derimar;N;0;89,5;42;1,78;M;2;60;;14,1;24,35;N;N;13;70;15;10/07/2022;feliz;preto;Flamengo;S
+Luiz;S;1;85;45;1,65;M;2;120,5;;5,51;11,8;N;S;4;70;15;10/07/2022;feliz;preto;Gremio;S
+Artur;N;0;58;20;1,68;M;1;42,8;4;19,56;58,85;N;N;5;70;15;10/07/2022;neutro;preto;Real Madrid;S
+Isabele;N;0;68;23;1,68;F;4;43,12;8;20,07;48,02;S;N;6;70;15;10/07/2022;neutro;preto;Vasco;S
+Marina;S;0;80;27;1,56;F;;;;;;S;N;;70;15;;neutro;;;N
+Rafael;S;8;74;32;1,7;M;1;38,8;1;19,56;65,77;N;S;7;70;15;10/07/2022;neutro;preto;palmeiras;S
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
